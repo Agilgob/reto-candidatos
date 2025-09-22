@@ -8,7 +8,7 @@ Una plataforma web donde los usuarios pueden crear decisiones importantes de su 
 
 Para mantener la confidencialidad de tu solución:
 1. **Clona** el repositorio (no hagas fork)
-2. **Crea tu propio repositorio privado** en tu cuenta
+2. **Crea tu propio repositorio publico** en tu cuenta
 3. **Envía el link de tu repositorio** cuando completes el reto
 
 Esto evita que otros candidatos puedan ver tu solución.
